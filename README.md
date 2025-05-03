@@ -3,8 +3,8 @@ TaskBoard is a Task Management Application built using MERN Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./client/src/assets/preview/3.jpeg" alt="" width="825"/>
-  <img src="./client/src/assets/preview/4.jpeg" alt="" width="825"/>
   <img src="./client/src/assets/preview/2.jpeg" alt="" width="825"/>
+  <img src="./client/src/assets/preview/4.jpeg" alt="" width="825"/>
   <img src="./client/src/assets/preview/1.jpeg" alt="" width="825"/>
 </div>
 
