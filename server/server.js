@@ -22,6 +22,10 @@ app.use('/api/project/task', taskRoutes);
 
 const PORT = process.env.PORT;
 
+app.get('/', (req,res) => {
+    res.send('Taskboard Server is Live');
+})
+
 app.listen(PORT, () => {
     connectDB(process.env.MONGODB_URI);
     console.log("SERVER RUNNING ON PORT", PORT);
